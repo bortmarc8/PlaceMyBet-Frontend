@@ -1,0 +1,12 @@
+{
+  "name": "AE3",
+  "displayName": "AE3",
+  "expo": {
+    "name": "AE3",
+    "slug": "AE3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
